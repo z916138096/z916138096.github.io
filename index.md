@@ -5,4 +5,4 @@ Dan Chen, Chuangyi Gui, **Yi Zhang**, Hai Jin, Long Zheng, Yu Huang, Xiaofei Lia
 
 
 **Yi Zhang**, Xiaomeng Yi, Yu Huang, Jinrui Yuan, Chuangyi Gui, Dan Chen, Long Zheng, Jianhui Yue, Xiaofei Liao, Hai Jin, Jingling Xue (2025). [Cheetah: Accelerating Dynamic Graph Mining with Grouping
-Updates](). ACM Transactions on Architecture and Code Optimization, TACO 2025 (Just Accepted).
+Updates](https://github.com/z916138096/z916138096.github.io/blob/main/TACO_Cheetah.pdf). ACM Transactions on Architecture and Code Optimization, TACO 2025 (Just Accepted).
