@@ -7,7 +7,7 @@
 **Yi Zhang**, Yu Huang, Deting Chen, Chaoqiang Liu, Haifeng Liu, Xueqi Li, Xiaofei Liao, Hai Jin (2026). “DyPamear: Efficient and Scalable Dynamic Graph Pattern Mining on Practical Processing-in-Memory Architecture”. *Design Automation Conference, DAC 2026*.
 
 
-**Yi Zhang**, Yu Huang, Chaoqiang Liu, Haifeng Liu, Juntao Chen, Jingrui Yuan, Jianhui Yue, Xiaofei Liao, Hai Jin, Jingling Xue (2026). “Gopher: Efficient Dynamic Graph Pattern Mining via DAG-Driven Execution”. *European Conference on Computer Systems, EuroSys 2026*.
+**Yi Zhang**, Yu Huang, Chaoqiang Liu, Haifeng Liu, Juntao Chen, Jingrui Yuan, Jianhui Yue, Xiaofei Liao, Hai Jin, Jingling Xue (2026). “[Gopher: Efficient Dynamic Graph Pattern Mining via DAG-Driven Execution](https://dl.acm.org/doi/10.1145/3767295.3769365)”. *European Conference on Computer Systems, EuroSys 2026*.
 
 
 **Yi Zhang**, Xiaomeng Yi, Yu Huang, Jinrui Yuan, Chuangyi Gui, Dan Chen, Long Zheng, Jianhui Yue, Xiaofei Liao, Hai Jin, Jingling Xue (2025). [Cheetah: Accelerating Dynamic Graph Mining with Grouping
